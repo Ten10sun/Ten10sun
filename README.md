@@ -22,7 +22,7 @@
 ## 📫 Contact
 - takashi.eguchi.dev@gmail.com
 
-## Hobbies
+## 🏃 Hobbies
 - Learning new things
 - Exploring new places
 - Morning runs
