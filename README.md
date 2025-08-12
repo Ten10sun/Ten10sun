@@ -1,16 +1,29 @@
-## Hi there 👋
+# From Driving Instructor & Massage Therapist to Frontend Developer
 
-<!--
-**Ten10sun/Ten10sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Frontend**: React, JavaScript, TailwindCSS, Bootstrap
+- **Backend**: Laravel, Node.js, PHP, MySQL
+- **Tools & Others**: Git, GitHub, Docker, Vercel, Netlify
 
-Here are some ideas to get you started:
+## 💻 Currently Working On
+- Learning modern web application development
+- Improving my portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+- UI/UX design for better user experience
+- Performance optimization
+- Web accessibility
+
+## 📚 Projects
+- [AI English Learning App](https://github.com/Ten10sun/your-ai-english-app) - Laravel + React + OpenAI API
+- [Quiz Platform](https://github.com/Ten10sun/lara-qui-app) - Laravel + TailwindCSS
+- [React Quiz App](https://github.com/ten10sun/react-quiz) - React + Vite
+
+## 📫 Contact
+- takashi.eguchi.dev@gmail.com
+
+## Hobbies
+- Learning new things
+- Exploring new places
+- Morning runs
+- Watching sunrises and sunsets
