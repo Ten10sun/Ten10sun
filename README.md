@@ -1,6 +1,6 @@
 # From Driving Instructor & Massage Therapist to Frontend Developer
 
-## 🚀 Skills
+## 🚀 Tech Skills
 
 ### Frontend
 - React (Less than 1 year)
