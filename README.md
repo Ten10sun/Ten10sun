@@ -3,21 +3,21 @@
 ## 🚀 Skills
 
 ### Frontend
-- React (1年未満)
-- JavaScript (Vanilla) (2-3年)
-- HTML/CSS (2-3年)
-- TailwindCSS, Bootstrap (1-2年)
+- React (Less than 1 year)
+- JavaScript (Vanilla) (2-3 years)
+- HTML/CSS (2-3 years)
+- TailwindCSS, Bootstrap (1-2 years)
 
 ### Backend
-- Node.js (1-2年)
-- PHP (2-3年)
-- Laravel (1年未満)
-- MySQL (2-3年)
+- Node.js (1-2 years)
+- PHP (2-3 years)
+- Laravel (Less than 1 year)
+- MySQL (2-3 years)
 
 ### Tools & Others
-- Git, GitHub (2-3年)
-- Docker (1-2年)
-- Vercel, Netlify (1年未満)
+- Git, GitHub (2-3 years)
+- Docker (1-2 years)
+- Vercel, Netlify (Less than 1 year)
 
 ## 💻 Currently Working On
 - Learning modern web application development
