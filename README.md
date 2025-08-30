@@ -1,9 +1,23 @@
 # From Driving Instructor & Massage Therapist to Frontend Developer
 
 ## 🚀 Skills
-- **Frontend**: React, JavaScript, TailwindCSS, Bootstrap
-- **Backend**: Laravel, Node.js, PHP, MySQL
-- **Tools & Others**: Git, GitHub, Docker, Vercel, Netlify
+
+### Frontend
+- React (1年未満)
+- JavaScript (Vanilla) (2-3年)
+- HTML/CSS (2-3年)
+- TailwindCSS, Bootstrap (1-2年)
+
+### Backend
+- Node.js (1-2年)
+- PHP (2-3年)
+- Laravel (1年未満)
+- MySQL (2-3年)
+
+### Tools & Others
+- Git, GitHub (2-3年)
+- Docker (1-2年)
+- Vercel, Netlify (1年未満)
 
 ## 💻 Currently Working On
 - Learning modern web application development
