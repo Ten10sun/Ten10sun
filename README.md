@@ -29,7 +29,7 @@
 - Web accessibility
 
 ## 📚 Projects
-- [AI English Learning App](https://github.com/Ten10sun/your-ai-english-app) - Laravel + React + OpenAI API
+- [AI English Learning App](https://github.com/Ten10sun/AI-English-App) - Laravel + React + OpenAI API
 - [Quiz Platform](https://github.com/Ten10sun/lara-qui-app) - Laravel + TailwindCSS
 - [React Quiz App](https://github.com/ten10sun/react-quiz) - React + Vite
 
